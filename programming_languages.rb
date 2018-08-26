@@ -3,3 +3,4 @@ def reformat_languages(languages)
   languages.collect do |type|
     new_hash.push (type)
 end
+end
